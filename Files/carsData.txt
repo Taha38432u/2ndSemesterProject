@@ -1,0 +1,24 @@
+1
+Sedan
+Cultus
+2007
+Suzuki
+It is not available
+2
+Sedan
+Brv
+2022
+Honda
+It is available
+3
+Suv
+Corolla
+2012
+Toyota
+It is available
+4
+Suv
+Mehran
+2022
+Suzuki
+It is available
